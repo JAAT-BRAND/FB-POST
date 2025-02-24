@@ -5,9 +5,9 @@
 ## <h3 align="center">
 # USAGE
 ```
-rm rf-FB-POST
-git clone https://github.com/JAAT-BRAND/FB-POST
-cd FB-POST
+rm rf-FB-POST-COOKIES
+git clone https://github.com/JAAT-BRAND/FB-POST-COOKIES
+cd FB-POST-COOKIES
 python Julmi.py
 ```
   <p align="center"><img src="https://img.shields.io/badge/WELCOME%20TO -𝐉𝐀𝐀𝐓-𝐁𝐑𝐀𝐍𝐃-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
